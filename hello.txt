@@ -1,5 +1,5 @@
 hello world gitgit 22222 hot-fix
 hello world gitgit 33333 hot-fix
 hello world gitgit
-hello world gitgit master merge conflict hot-fix
-hello world gitgit
+hello world gitgit master merge conflict hot-fx
+hello world gitgit master merge hot-fix(me) conflict
