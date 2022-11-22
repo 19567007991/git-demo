@@ -4,3 +4,4 @@ hello world gitgit
 hello world gitgit master merge conflict hot-fx
 hello world gitgit master merge hot-fix(me) conflict
 1 1 1 1 1
+2 2 2 2 2
